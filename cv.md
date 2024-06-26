@@ -1,26 +1,25 @@
-Anastasiya Morgunova
-
+# Anastasiya Morgunova 
 idzanaagi@gmail.com
 
-About:
+### About:
 
 Hello, I'm a software tester with over a year of experience in the field. Throughout my career, I've had the opportunity to work in various testing roles, including SDET, manual QA, and auto QA. My ability to seamlessly transition between different stacks has been one of my key strengths, and I thrive on continuously learning and adapting to new technologies.
 
 My passion for testing stems from my desire to make the world a little less buggy through my work. I'm currently delving into front-end development to do my job more efficiently and effectively. I'm also taking courses in test automation to improve my skills.
 
-Skills: 
+### Skills: 
 
-Java, JavaScript (TypeScript)
+* Java, JavaScript (TypeScript)
 
-Selenium, Selenide, Selenium Grid, Selenoid, Playwright
+* Selenium, Selenide, Selenium Grid, Selenoid, Playwright
 
-JUnit, TestNG
+* JUnit, TestNG
 
-MySQL, PostreSQL, Cassandra
+* MySQL, PostreSQL, Cassandra
 
-Docker, Allure, Kibana, Postman
+* Docker, Allure, Kibana, Postman
 
-Code Example:
+### Code Example:
 ```java
 /*
 The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
@@ -53,20 +52,20 @@ export function lovefunc(flower1: number, flower2: number): boolean {
 }
 ```
 
-Work Experience (1 year and 3 months):
+### Work Experience (1 year and 3 months):
 
-Fullstack QA Engineer | High-Volume Financial Marketplace
+* Fullstack QA Engineer | High-Volume Financial Marketplace
 
-Auto QA Engineer | Cybersecurity System
+* Auto QA Engineer | Cybersecurity System
 
-Education (Courses):
+### Education (Courses):
 
-Hexlet: frontend-developer
+* Hexlet: frontend-developer
 
-SimbirSoft: SDET workshop
+* SimbirSoft: SDET workshop
 
-OTUS: JavaScript QA Engineer (in progress)
+* OTUS: JavaScript QA Engineer (in progress)
 
-English:
+### English:
 
 A2-B1
