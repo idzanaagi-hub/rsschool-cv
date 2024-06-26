@@ -13,7 +13,7 @@ My passion for testing stems from my desire to make the world a little less bugg
 
 * Selenium, Selenide, Selenium Grid, Selenoid, Playwright
 
-* JUnit, TestNG
+* JUnit, TestNG, Cucumber
 
 * MySQL, PostreSQL, Cassandra
 
@@ -54,13 +54,13 @@ export function lovefunc(flower1: number, flower2: number): boolean {
 
 ### Work Experience (1 year and 3 months):
 
-* Fullstack QA Engineer | High-Volume Financial Marketplace
+* Fullstack QA Engineer, High-Volume Financial Marketplace
 
-* Auto QA Engineer | Cybersecurity System
+* Auto QA Engineer, Cybersecurity System
 
 ### Education (Courses):
 
-* Hexlet: frontend-developer
+* Hexlet: frontend developer
 
 * SimbirSoft: SDET workshop
 
